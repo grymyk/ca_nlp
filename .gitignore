@@ -1,5 +1,5 @@
-bin/
-include/
-lib/
-lib64/
-pyvenv.cfg
+canlp/bin/
+canlp/include/
+canlp/lib/
+canlp/lib64/
+canlp/pyvenv.cfg
